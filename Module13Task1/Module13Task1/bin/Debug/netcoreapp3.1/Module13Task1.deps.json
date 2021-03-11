@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Module13Task1/1.0.0": {
+        "runtime": {
+          "Module13Task1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Module13Task1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
